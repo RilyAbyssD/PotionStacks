@@ -1,0 +1,8 @@
+name: PotionStacks
+version: '${project.version}'
+main: rilyabyss.potionstacks.PotionStacks
+api-version: 1.18
+commands:
+  ptn:
+    description: Type /ptn help
+    usage: Type /ptn help
